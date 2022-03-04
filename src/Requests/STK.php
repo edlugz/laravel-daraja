@@ -105,6 +105,7 @@ class STK extends MpesaApiClient
      * @param string $amount
      * @param string $description
      * @param string $accountReference
+     * @param string $transactionType
      * @param null|string $shortCode short code receiving the money
      * @return mixed
      */
